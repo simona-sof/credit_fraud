@@ -20,6 +20,26 @@ The final model achieves:
 
 It results in only 4 false positives and 4 false negatives.
 
+## Installation
+
+To run this project, you need to have Python installed along with several libraries. You can install the required libraries using:
+
+```bash
+pip install -r requirements.txt
+
+## Data
+
+1. Download the dataset from [this URL](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+2. Create a folder named `data` in the project directory.
+3. Place the downloaded dataset into the `data` folder.
+
+```bash
+mkdir data
+# Move the downloaded file to the data folder
+mv path/to/your/downloaded/file data/
+
+4. Run the project in the notebook
+
 
 ## Dataset Citation
 
