@@ -26,6 +26,7 @@ To run this project, you need to have Python installed along with several librar
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Data
 
@@ -37,6 +38,7 @@ pip install -r requirements.txt
 mkdir data
 # Move the downloaded file to the data folder
 mv path/to/your/downloaded/file data/
+```
 
 4. Run the project in the notebook
 
